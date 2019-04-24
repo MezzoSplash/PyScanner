@@ -2,8 +2,8 @@
 
 import subprocess
 import os
-import json
 import time
+
 def onePing(ipinput):
     #check if input is a string first
     if type(ipinput) != str:
