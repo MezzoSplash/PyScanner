@@ -7,4 +7,6 @@ Yes, I know this implementation is very slow, but it's a bit of fun so no worrie
 
 *V3.0 Formats nicely.*
 
+*V4.0 Now checks if important files exist, more important things. important important.*
+
 very nice
