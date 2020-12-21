@@ -28,7 +28,7 @@ def checkFile(filee):
 def main():
     #check if file is even there, otherwise why run...
     checkFile('./testcomparisonoutput.txt')
-    #continue anyway 
+    #continue anyway lmao
     i = 1
     while i < 4:
         #Build command
