@@ -8,7 +8,7 @@ import sys
 def onePing(ipinput):
     #check if input is a string first
     if type(ipinput) != str:
-        return "not correct, try again"
+        return "not correct, try again nerd"
     # Make the command, split input
     doPing = "ping -c 1 {}".format(ipinput).split()
     #print result and hide output of subprocess
